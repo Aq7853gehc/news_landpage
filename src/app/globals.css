@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+a:hover {
+    color: magenta;
+}
+
+.btn{
+    background: hsl(240, 100%, 5%);
+    
+}
